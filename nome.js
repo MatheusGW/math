@@ -116,7 +116,7 @@ console.log(T +"x8 =", T * 8);
 console.log(T +"x9 =", T * 9);
 console.log(T +"x10 =", T * 10);
 
-console.log("================");
+
 
 T++
 
